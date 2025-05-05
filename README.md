@@ -1,6 +1,6 @@
 # Resale Flat Price Analysis 📊
 
-A Python script that processes resale flat price data to:
+A Python script that processes resale flat price data (from 2017 - 2024) to:
 - Determine the **lowest** resale price for a specific town in a given year.
 - Identify towns with the **highest and lowest maximum resale prices** in a given year.
 
